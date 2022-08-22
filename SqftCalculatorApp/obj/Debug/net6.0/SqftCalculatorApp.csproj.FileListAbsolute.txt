@@ -1,0 +1,15 @@
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\bin\Debug\net6.0\SqftCalculatorApp.exe
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\bin\Debug\net6.0\SqftCalculatorApp.deps.json
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\bin\Debug\net6.0\SqftCalculatorApp.runtimeconfig.json
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\bin\Debug\net6.0\SqftCalculatorApp.dll
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\bin\Debug\net6.0\SqftCalculatorApp.pdb
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\SqftCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\SqftCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\SqftCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\SqftCalculatorApp.AssemblyInfo.cs
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\SqftCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\SqftCalculatorApp.dll
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\refint\SqftCalculatorApp.dll
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\SqftCalculatorApp.pdb
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\SqftCalculatorApp.genruntimeconfig.cache
+C:\Users\Thomas\Desktop\test-code\SqftCalculatorApp\SqftCalculatorApp\obj\Debug\net6.0\ref\SqftCalculatorApp.dll
